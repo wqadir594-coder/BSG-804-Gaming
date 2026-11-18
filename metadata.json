@@ -1,0 +1,6 @@
+{
+  "name": "BSG 804 Gaming",
+  "description": "Competitive esports organization, tournament schedules, pro rosters, and academy tryouts for BSG 804 Gaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
